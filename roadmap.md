@@ -1,0 +1,7 @@
+- [x] Terapkan tampilan ruang kerja SIMAK gelap dengan navigasi, filter kanal, dan status demonstrasi yang jelas.
+- [x] Tambahkan tampilan Network (SNA) Cytoscape deterministik dengan anonimisasi, panel pengaturan, dan insight.
+- [x] Pertahankan login, batas peran, dan fitur dasbor; validasi tampilan serta tes setelah perubahan.
+- [x] Pindahkan navigasi dashboard ke sidebar vertikal di sisi kiri, termasuk pada layar kecil, dan ganti warna hijau gelap dengan navy serta aksen biru langit, ungu muda, lime, dan putih.
+- [x] Bangun modul operasional yang tersambung ke data: briefing dan distribusi, kanal, metrik, isu/fakta, frasa terlarang, krisis, ringkasan eksekutif, dan audit.
+- [x] Terapkan hak akses per peran dan isolasi kanal di database serta server; wajibkan disclosure dan catat tindakan penting.
+- [x] Validasi alur masuk dan alur operasional per peran, jalankan tes dan pemeriksaan build, lalu tandai pekerjaan selesai.

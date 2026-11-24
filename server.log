@@ -1,0 +1,125 @@
+
+> dev
+> vite dev
+
+[33mThe plugin "vite-tsconfig-paths" is detected. Vite now supports tsconfig paths resolution natively via the [1mresolve.tsconfigPaths[22m option. You can remove the plugin and set [1mresolve.tsconfigPaths: true[22m in your Vite config instead.[39m
+[2m6:20:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v8.1.5[39m  [2mready in [0m[1m13428[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.29:[1m8080[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m6:20:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
+[2m6:21:59 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m connected.
+[2m6:22:01 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/alert-reviews.functions.ts:35:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/alert-reviews.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:110:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:124:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:144:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:156:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:177:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:191:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:201:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:217:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:230:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:242:26 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:252:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:263:25 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:274:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:284:38 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:294:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:304:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:22:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/services/pipeline.functions.ts:29:35 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/services/pipeline.functions.ts[39m
+[tanstack-router] These exports from "c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/routes/index.tsx" will not be code-split and will increase your bundle size:
+- LandingPage
+For the best optimization, these items should either have their export statements removed, or be imported from another location that is not a route file.
+[2m6:26:01 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/alert-reviews.functions.ts:35:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/alert-reviews.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/services/pipeline.functions.ts:29:35 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/services/pipeline.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:110:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:124:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:144:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:156:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:177:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:191:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:201:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:217:36 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:230:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:242:26 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:252:34 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:263:25 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:274:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:284:38 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:294:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
+[2m6:26:02 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: c:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts:304:33 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mc:/Users/choris satun nikmah/Downloads/sistemkomunikasi-main/sistemkomunikasi-main/src/features/dashboard/operational.functions.ts[39m
